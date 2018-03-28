@@ -8,9 +8,27 @@ A list of the programs, plugins, and resources I use.
 | Sublime 3 | Editor and IDE           |
 |           |                          |
 
+# Browser
+
+#### Plugins (Chrome)
+|                   Name                  |             Description             |
+|-----------------------------------------|-------------------------------------|
+| Momentum                                | Nice landing page                   |
+| Block Site                              | Block Facebook, Aftonbladet, etc... |
+| Keyboard Shortcuts for Google Translate | Great for translation               |
+| Google Search Keyboard Shortcuts        | Arrow up/down for google searches   |
+
+#### Shortcuts
+Shortcuts on Mac. Most of these can be replace Cmd with Ctrl on Windows/Ubuntu.
+| Command         | Action                | Comment                  |
+| :-------------- | :------------         | :----------------------- |
+| Cmd + L         | Cursor to address bar |                          |
+|                 |                       |                          |
+
+
 # Sublime 
 #### Plugins
-* [Text pastry](https://packagecontrol.io/packages/Text%20Pastry)
+* [Text pastry](https://github.com/duydao/Text-Pastry/wiki/Examples)
 * [Case conversion](https://packagecontrol.io/packages/Case%20Conversion)
 * [AutoSelect](https://github.com/SublimeText/AutoSelect/issues/2)
 * [GoSublime](https://packagecontrol.io/packages/GoSublime)
